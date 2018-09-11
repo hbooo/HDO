@@ -737,6 +737,10 @@ background-color: rgba(80, 80, 80, 0.3);
   height: 15px;
 }
 
+#userinfo_major {
+  display: flex !important;
+}
+
 /*
 #nav_useredit, #nav_logout, #nav_invite, #nav_donate, #nav_store {
     opacity: 0;
